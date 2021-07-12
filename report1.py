@@ -22,6 +22,9 @@ class TestOrangeHRM():
 
         assert self.driver.title=="OrangeHRM"
 
+        #html report generated in the pycharm folder---------- generated html file: file://C:\Users\D\PycharmProjects\Reports\report.html ------------
+
+
 
 
 
